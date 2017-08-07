@@ -1,0 +1,15 @@
+# Linear Regression
+
+### History
+Started in 1800s with *Francis Galton*. He was studying the relationship between parents and their children. In particular, the relationship between heights of fathers and their sons.
+
+*Galton* discovered that a man's son tended to be roughly as tall as his father, but the son's height tended to be closer to the **overall average height** of all people.
+
+### Example
+*Shaquille O'Neal* is 7ft 1in tall. If *Shaq* has a son, chances are the son will be pretty tall. However, *Shaq* is such an anomaly that there is also a good chance that his son will not be as tall as *Shaq*.
+
+The son is indeed tall (6ft 7in), but not as tall as his dad. *Galton* calls this phenomenon **regression** in that the son's height *regressed* towards the mean height.
+
+### Concept
+Following Galton's observations, we could predict the sons' height before they are even born. Our goal with linear regression is to **minimize the vertical distance** between all the data points and our line. In determining the best line, we are attempting to minimize the distance between **all** the points and their distance to our line.  
+There are lots of different ways (sum of squared errors, sum of absolute errors, etc.), but all the methods have the same general goal.
