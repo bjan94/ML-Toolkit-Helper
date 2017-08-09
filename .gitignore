@@ -1,2 +1,5 @@
 # files to ignore
 *.pdf
+
+# paths to ignore
+Images/*
