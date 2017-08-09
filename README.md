@@ -9,9 +9,9 @@ Basic theory of each topic will be in .md format. At the moment, this is only pu
 Folder that will store all the images to be included in the notes
 
 ### Linear Regression
-Exercise using simulated U.S. housing dataset.
+Exercise using simulated U.S. housing dataset.  
 Project exploring *ecommerce* dataset.
 
 ### Logistic Regression
-Exercise using titanic dataset from [kaggle](https://www.kaggle.com) . 
+Exercise using titanic dataset from [kaggle](https://www.kaggle.com).   
 Project exploring simulated *ad clicker* dataset.
