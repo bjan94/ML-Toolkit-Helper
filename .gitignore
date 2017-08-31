@@ -2,3 +2,4 @@
 *.pdf
 
 # paths to ignore
+Python\ DS\ Presentations/*
